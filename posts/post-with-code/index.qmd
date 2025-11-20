@@ -2,8 +2,8 @@
 title: "First Trip to China!"
 author: "Damien Martin"
 date: "2025-11-20"
-categories: [travel]
-image: "image.jpg"
+categories: [travel,china]
+image: "huangshan.jpg"
 ---
 
 从2024年11月28日到2024年12月16日，我第一次去中国。
