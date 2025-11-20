@@ -11,6 +11,7 @@ image: "huangshan.jpg"
 [这个Google Slides](https://docs.google.com/presentation/d/1neMpNsVxEcltRuEdoHFuRzJG4Gu_yGtbUnbuF0fKCAo/edit?slide=id.g328c59a9c4f_0_0#slide=id.g328c59a9c4f_0_0)里是我的一些旅行照片
 
 我去：
+
 * 上海， 杭州
 * 张家界
 * 芙蓉镇， 凤凰古城
