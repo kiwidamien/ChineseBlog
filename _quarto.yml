@@ -4,7 +4,7 @@ project:
 
 website:
   title: "ChineseBlog"
-  site-url: https://kiwidamien.github.io/chinese
+  site-url: https://kiwidamien.github.io/ChineseBlog
   navbar:
     right:
       - about.qmd

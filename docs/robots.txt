@@ -1,1 +1,1 @@
-Sitemap: https://kiwidamien.github.io/chinese/sitemap.xml
+Sitemap: https://kiwidamien.github.io/ChineseBlog/sitemap.xml
