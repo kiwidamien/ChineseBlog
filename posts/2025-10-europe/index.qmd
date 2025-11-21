@@ -35,12 +35,8 @@ image: "church.jpg"
 
 ![Hagia Sophia Interior](hagia_interior.jpg){#fig-hanno}
 
-Mosque's in Old Istanbul
+Mosque's in Old Istanbul (古代伊斯坦布尔的清真寺)
 :::
-![](blue_mosque.jpg)
-![](hagia_interior.jpg)
-
-INSERT PICTURES OF THE MOSQUES, MAYBE A MAP SHOWING THE DISTANCE BETWEEN THEM.
 
 A river splits Istanbul into two parts. The Western side of the city is in Europe, but the Eastern side is in Asia.
 
