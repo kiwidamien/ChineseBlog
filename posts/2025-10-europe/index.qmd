@@ -35,7 +35,7 @@ image: "church.jpg"
 
 ![Hagia Sophia Interior](hagia_interior.jpg){#fig-hanno}
 
-Mosque's in Old Istanbul (古代伊斯坦布尔的清真寺)
+Mosques in Old Istanbul (古代伊斯坦布尔的清真寺)
 :::
 
 A river splits Istanbul into two parts. The Western side of the city is in Europe, but the Eastern side is in Asia.
@@ -54,6 +54,7 @@ A river splits Istanbul into two parts. The Western side of the city is in Europ
 《权力的游戏》 (Quánlì de Yóuxì)： The Chinese name for Game of Thones （Power's game）
 
 Boat Trip, Blue Lake Cave
+
 # 波斯尼亚 🇸🇧
 
 我们在**波斯尼亚**待的时间很短。我们从**杜布罗夫尼克**坐车到**斯普利特**，经过了莫斯塔尔。我们在**莫斯塔尔**只是吃了午饭，看了看老城市和那座著名的桥。
