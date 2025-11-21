@@ -33,7 +33,9 @@ INSERT PICTURES OF THE MOSQUES, MAYBE A MAP SHOWING THE DISTANCE BETWEEN THEM.
 
 A river splits Istanbul into two parts. The Western side of the city is in Europe, but the Eastern side is in Asia.
 
-MAP SHOWING ISTANBUL SPLIT IN TWO, WITH 欧洲 and 亚洲 labelled.
+- Mine: 伊斯坦布尔有一条江。江的西边在欧洲，但是江的东边在亚洲。
+- DeepSeek: 一条河把伊斯坦布尔分成两部分。西边在欧洲，东边在亚洲。
+![](istanbul.jpg)
 
 # 克罗地亚
 
@@ -43,6 +45,7 @@ MAP SHOWING ISTANBUL SPLIT IN TWO, WITH 欧洲 and 亚洲 labelled.
 
 《权力的游戏》 (Quánlì de Yóuxì)： The Chinese name for Game of Thones （Power's game）
 
+Boat Trip, Blue Lake Cave
 # 波斯尼亚
 
 我们在**波斯尼亚**待的时间很短。我们从**杜布罗夫尼克**坐车到**斯普利特**，经过了莫斯塔尔。我们在**莫斯塔尔**只是吃了午饭，看了看老城市和那座著名的桥。
