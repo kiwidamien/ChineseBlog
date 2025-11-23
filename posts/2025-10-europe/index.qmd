@@ -51,7 +51,7 @@ A river splits Istanbul into two parts. The Western side of the city is in Europ
 
 从伊斯坦布尔到杜布罗夫尼克做飞机需要两个小时。
 
-:: {#fig-dubrovnik}
+::: {#fig-dubrovnik}
 
 ![Dubrovnik from Above](dubrovnik_from_above.jpg)
 
@@ -63,7 +63,7 @@ A river splits Istanbul into two parts. The Western side of the city is in Europ
 
 我们第三天在杜布罗尼克坐船，去附近的岛。一个岛有绿色的洞穴。
 
-:: {#fig-cave}
+::: {#fig-cave layout-ncol=3}
 
 ![Blue Cave path to the sea](cave_out_to_water.jpg)
 
