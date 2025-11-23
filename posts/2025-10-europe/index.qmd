@@ -55,13 +55,18 @@ A river splits Istanbul into two parts. The Western side of the city is in Europ
 
 ![Dubrovnik from Above](dubrovnik_from_above.jpg)
 
-从小山看杜布罗尼克 （Dubrovnik as seen from a nearby hill）
+从小山看杜布罗夫尼克 （Dubrovnik as seen from a nearby hill）
 :::
 
-* Mine：杜布罗尼克是英语的电视剧的视频地方。哪部电视剧是《权力的游戏》 (Quánlì de Yóuxì)： The Chinese name for Game of Thones （Power's game）。
-* DeepSeek: 
+* Mine：杜布罗夫尼克是一部英语的电视剧的视频地方。那部电视剧是《权力的游戏》 (Quánlì de Yóuxì)： The Chinese name for Game of Thones （Power's game）。
+* DeepSeek: 杜布罗夫尼克是一部英语电视剧的拍摄地。那部电视剧就是《权力的游戏》。
+* DeepSeek offered this alternative: 《权力的游戏》是在杜布罗夫尼克拍的。
 
-我们第三天在杜布罗尼克坐船，去附近的岛。一个岛有绿色的洞穴。
+New topic:
+
+* Mine: 我们第三天在杜布罗尼克坐船，去附近的岛。一个岛有蓝色的洞穴。
+* DeepSeek: 第三天，我们坐船从杜布罗夫尼克去了附近的岛。在一个岛上，我们看到了一个蓝色的洞穴。
+
 
 ::: {#fig-cave layout-ncol=3}
 
@@ -71,7 +76,7 @@ A river splits Istanbul into two parts. The Western side of the city is in Europ
 
 ![Blue Cave underwater](cave_underwater.jpg)
 
-在绿色洞穴里
+在蓝色洞穴里
 :::
 
 
