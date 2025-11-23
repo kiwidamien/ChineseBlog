@@ -51,9 +51,29 @@ A river splits Istanbul into two parts. The Western side of the city is in Europ
 
 从伊斯坦布尔到杜布罗夫尼克做飞机需要两个小时。
 
-《权力的游戏》 (Quánlì de Yóuxì)： The Chinese name for Game of Thones （Power's game）
+:: {#fig-dubrovnik}
 
-Boat Trip, Blue Lake Cave
+![Dubrovnik from Above](dubrovnik_from_above.jpg)
+
+从小山看杜布罗尼克 （Dubrovnik as seen from a nearby hill）
+:::
+
+* Mine：杜布罗尼克是英语的电视剧的视频地方。哪部电视剧是《权力的游戏》 (Quánlì de Yóuxì)： The Chinese name for Game of Thones （Power's game）。
+* DeepSeek: 
+
+我们第三天在杜布罗尼克坐船，去附近的岛。一个岛有绿色的洞穴。
+
+:: {#fig-cave}
+
+![Blue Cave path to the sea](cave_out_to_water.jpg)
+
+![Blue Cave path to the land](cave_out_to_land.jpg)
+
+![Blue Cave underwater](cave_underwater.jpg)
+
+在绿色洞穴里
+:::
+
 
 # 波斯尼亚 🇸🇧
 
