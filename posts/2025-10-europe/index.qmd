@@ -15,7 +15,7 @@ image: "church.jpg"
 * 克罗地亚 (kèluódìyà - Croatia)
   * 杜布罗夫尼克 (dùbùluófūníkè - Dubrovonik)
   * 斯普利特 (sīpǔlìtè - Split)
-  * 普利特维采 (pǔlìtèwéicǎi - Plitvice)
+  * 普利特维柴 (pǔlìtèwéicǎi - Plitvice)
 * 波斯尼亚 (bōsīníyǎ - Bosnia)
   * 莫斯塔尔 (mòsītǎ'ěr - Mostar)
 * 斯洛文尼亚 (sīluòwénníyǎ - Slovenia)
@@ -43,7 +43,7 @@ A river splits Istanbul into two parts. The Western side of the city is in Europ
 
 - Mine: 伊斯坦布尔有一条江。江的西边在欧洲，但是江的东边在亚洲。
 - DeepSeek: 一条河把伊斯坦布尔分成两部分。西边在欧洲，东边在亚洲。
-![](istanbul.jpg)
+![](istanbul.jpg){width=80%}
 
 # 克罗地亚 🇭🇷
 
@@ -82,6 +82,60 @@ New topic:
 
 # 波斯尼亚 🇸🇧
 
-我们在**波斯尼亚**待的时间很短。我们从**杜布罗夫尼克**坐车到**斯普利特**，经过了莫斯塔尔。我们在**莫斯塔尔**只是吃了午饭，看了看老城市和那座著名的桥。
+我们在**波斯尼亚**待的时间很短。我们从**杜布罗夫尼克**坐车到**斯普利特**，经过了莫斯塔尔。我们在**莫斯塔尔**只是吃了午饭，看了看老城市,那座著名的桥,和国家公园。
+
+
+# 回克罗地亚 🇭🇷
+
+## 斯普利特
+
+::: {#fig-split layout-ncol=2}
+
+![Planes flying over Republic Square](split_planes.jpg){width=85%}
+
+![Arches at Republic Square](split_arches.jpg)
+:::
+
+## 普利特维采公园
+
+
 
 # 斯洛文尼亚 🇸🇮
+
+我们住在布莱德湖，那个镇又美又小。从**普利特维采**坐车到**布莱德湖**差不多需要五个小时。
+
+布莱德旁边就有一个湖，湖里有一个小岛，岛上还有一座教堂。
+
+![Church of the Assumption of the Blessed Virgin, Lake Bled, Slovenia](church.jpg)
+
+布莱德湖在校山上有一个城堡。
+
+::: {#fig-split layout="[[2,1]]"}
+
+![View from below the cliffs](lake_bled_cliff.jpg){width=130%}
+
+![From up on the Castle](lake_bled_castle.jpg){width=90%}
+:::
+
+# 回家
+
+Again use the "via" sentence structure.
+
+* 从 A 到 B，经过 C: From A to B, passing through C
+* 从 A 到 B，在 C 转机/转车：From A to B, transferring through C 
+
+因为要回家，我们从**布莱德湖**坐车到了**萨格勒布机场**，路上用了六个小时。
+
+我们从萨格勒布到美国，在**伊斯坦布尔**转机。
+
+# Useful Vocab
+
+| 汉字 | English |
+|-----|---------|
+| 寺庙 | Temple |
+| 清真寺秒 | Mosque |
+| 教堂 | Church |
+| 城堡 | Castle |
+|-----|------|
+| 洞穴 | Cave |
+| 转机 | Transfer | 
