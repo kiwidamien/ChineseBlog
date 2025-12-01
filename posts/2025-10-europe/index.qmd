@@ -85,7 +85,11 @@ Biggest corrections:
 
 ## 杜布罗夫尼克
 
-从伊斯坦布尔到杜布罗夫尼克做飞机需要两个小时。
+从**伊斯坦布尔**到**杜布罗夫尼克**坐飞机需要两个小时。
+
+
+杜布罗夫尼克很小的城市。我们住在杜布罗夫尼克三天。
+
 
 ::: {#fig-dubrovnik}
 
@@ -93,6 +97,9 @@ Biggest corrections:
 
 从小山看杜布罗夫尼克 （Dubrovnik as seen from a nearby hill）
 :::
+
+《权力的游戏》是在杜布罗夫尼克拍的。
+
 
 * Mine：杜布罗夫尼克是一部英语的电视剧的视频地方。那部电视剧是《权力的游戏》 (Quánlì de Yóuxì)： The Chinese name for Game of Thones （Power's game）。
 * DeepSeek: 杜布罗夫尼克是一部英语电视剧的拍摄地。那部电视剧就是《权力的游戏》。
@@ -120,6 +127,14 @@ New topic:
 
 我们在**波斯尼亚**待的时间很短。我们从**杜布罗夫尼克**坐车到**斯普利特**，经过了莫斯塔尔。我们在**莫斯塔尔**只是吃了午饭，看了看老城市,那座著名的桥,和国家公园。
 
+::: {#fig-mostar layout-ncol=2}
+
+![Town of Mostar](mostar_town.jpg)
+
+![Bridge in Mostar](mostar_bridge.jpg)
+
+
+:::
 
 # 回克罗地亚 🇭🇷
 
