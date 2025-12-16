@@ -190,3 +190,13 @@ Again use the "via" sentence structure.
 |-----|------|
 | 洞穴 | Cave |
 | 转机 | Transfer | 
+
+
+# Useful Grammar
+
+1. It takes Y hours to drive from A to B, or "A is a Y hour drive from B":
+  * 从 + A + 到 + B + 坐 (method) + (time)
+2. Going via 
+  * 从 A 到 B，经过 C: From A to B, passing through C
+  * 从 A 到 B，在 C 转机/转车：From A to B, transferring through C 
+3. 
