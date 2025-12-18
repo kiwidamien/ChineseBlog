@@ -46,4 +46,21 @@ As well as making me more more empathetic to others, learning about a different 
 
 每周我和一个中国人一起打电话聊天两个小时。第一次小时说英文，第二次小时说汉语。她常常不明白我，我的口语不清楚。我觉得口语越来越好，但是现在需要提高。
 
+* YouTube Videos
+* Courses
+* Textbook
+* A trip to China！
+* Netflix
+* Chinese Readerse
+* Podcasts
 
+
+## Current Resources
+
+* [Master Tones like a native in 10 minutes](https://www.youtube.com/watch?v=p9u20MyFJ2U)
+  * 
+* [Give me 10 minutes and I'll make your Mandarin more natural](https://www.youtube.com/watch?v=SI8WgJ7kz4E)
+  * A video that concentrates on the flow of Mandarin, particularly emphasis. Covers similar ground to the video above, but it much shorter
+* Maomi Chinese
+* [每天中文](https://www.youtube.com/watch?v=iyVM1bW0rUY)
+  * Vlog with a lot of Chinese language, all approximately 15 minutes
