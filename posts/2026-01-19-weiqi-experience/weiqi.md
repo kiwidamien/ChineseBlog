@@ -23,4 +23,40 @@ image: "go_game.png"
 > Important note： He asked me if I had ever.... is 他问我有没有 Verb 过， NOT 他问我我如果 Verb 过。。。。。. 如果 is only for conditional statements, not about whether or not statements.
 > 在学生的时候 is better as either 上学的时候 (while I was attending school) or 学生时代 （during my student days）
 
-他玩的~行为~方式不太~善良~友善。他喜欢给其他人介绍信游戏，然后玩儿用他的经验赢了。
+他玩的(~~行为~~)方式不太（~~善良~~）友善。他喜欢先给别人介绍新游戏，然后用自己的经验轻松赢他们。
+
+## 学围棋的建议
+
+* 先学围棋的规则。玩过几盘之后，再可以学策略。
+* 找一个会下围棋的人教你规则，这比只读规则书更容易，也更有趣.
+* 先在小棋盘上玩几盘，比如 9x9。虽然标准大小是19x19.
+
+> Original attempt: 比读数学规则更容易和喜欢的.
+
+## 优缺点
+
+和其他棋类游戏相比，我喜欢围棋的地方：
+
+1. 规则简单，但策略极深。
+2. 它是完全信息游戏，没有运气成分。
+3. 每个期子都一样的。
+4. 玩久了，你会自己发现一些规则里没写的概念。
+
+国际象棋有6种棋子，每种都有特别的移动规则。其中，王这个棋子，特别重要。国际象棋的重点是保护你的王，同时捉住对方的王。相比之下，围棋子都一样的。
+
+
+![围棋棋盘](go_game.png)
+
+#### 生词
+
+| 生词     |              | 英语        |
+|---------|--------------|-------------|
+| 棋类游戏 | qí lèi yóuxì | Board Games |
+| 策略    | cèlüè        | Strategy    | 
+| 友善    | yǒushàn      | Friendly    |
+| 这类    | zhè lèi      | This type/this style |
+| 成分    | chéngfèn     | element of (e.g. 运气成分) |
+| 概念    | gàiniàn      | concept     |
+| 象棋    | xiàngqí      | Chess (中国或者国际) |
+| 捉住    | zhuōzhù      | capture     |
+| 相比之下。。。 | xiāng bǐ zhī xià | In contrast ...|

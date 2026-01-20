@@ -3,7 +3,7 @@ title: "Second Language Learning"
 author: "Damien Martin"
 date: "2025-12-16"
 categories: [language learning]
-image: "church.jpg"
+image: "second_language.png"
 ---
 
 # The 5 Hypothesis of Second Language Acquisition

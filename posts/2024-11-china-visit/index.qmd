@@ -16,3 +16,5 @@ image: "huangshan.jpg"
 * 张家界
 * 芙蓉镇， 凤凰古城
 * 黄山，宏村镇，和西递镇
+
+![黄山](huangshan.jpg)

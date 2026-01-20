@@ -3,7 +3,7 @@ title: "Letter to myself in 10 years"
 author: "Damien Martin"
 date: "2026-01-07"
 categories: [language learning]
-image: "church.jpg"
+image: "letter.jpg"
 ---
 
 我最近看视频叫[《I got a letter from the past》](https://www.youtube.com/watch?v=BEiZOlWFHi8&list=PL4U_NzDES8Nx_RadxSHWYWPYfIc7vNEWJ&index=7)。视频话题是18岁的人给28岁的自己写一封信。
