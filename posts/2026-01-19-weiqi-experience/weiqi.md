@@ -44,9 +44,18 @@ image: "go_game.png"
 
 国际象棋有6种棋子，每种都有特别的移动规则。其中，王这个棋子，特别重要。国际象棋的重点是保护你的王，同时捉住对方的王。相比之下，围棋子都一样的。
 
-围棋不是完美的游戏。我觉得围棋的缺点是：
+围棋不是完美的游戏。我觉得围棋的缺点是。这一点比较复杂，所以我先用英语写下来，然后再翻译成中文。
 
-* 早的错误。。。。。
+* There is a lack of immediate feedback. It may take many turns for an error to become obvious
+  * 围棋不能立刻给你反馈。你可能要下很多步之后，才能发现一个错误，而且就算发现了，也常常不清楚到底是在哪一步走错了。
+* It is not obvious what the score is during the game, particularly if you lack experience.
+  * 对于新手来说，下围棋时常常很难判断谁占优势，尤其经验不足的话就更看不清了。
+  * Initially opened with "你就开始下围棋" to mean "when you first start playing go", but in Chinese this suggests the beginning of a particular match, not that you are a beginner who is just getting used to go.
+* There are not clear goals in the beginning of the game. To understand why early moves are good, you need to understand the strategy very deeply, something you only get by playing a lot of games. So your first few games the initial moves seem pointless.
+  * 在围棋开局时，不清楚最好的下法在哪里。要想理解为什么早期的一些步法是好的，你需要有很深的策略理解。这种理解只能通过下很多盘棋才能获得。所以，在你最初下的几盘棋里，开始的那些走法可能会让你觉得没什么意义。
+* A single mistake can make your game go from certain victory to crushing defeat.
+  * Mine: 一个错误让你的成功围棋盘成为没希望了输。
+  * Deepseek: 一个错误就足以让稳赢的棋变成一场惨败。
 
 
 ![围棋棋盘](go_game.png)
@@ -64,3 +73,14 @@ image: "go_game.png"
 | 象棋    | xiàngqí      | Chess (中国或者国际) |
 | 捉住    | zhuōzhù      | capture     |
 | 相比之下。。。 | xiāng bǐ zhī xià | In contrast ...|
+| 反馈    | fǎnkuì       | feedback    |
+| 步      | bù           | turns （measure）|
+| 局      | jú           | games (measure)
+| 对于新手来说 |           | From a beginner's perspective| 
+| 谁占优势 | shuí zhàn yōushì| who is winning |
+| 得分    | défēn         | score       |
+| 开局 |kāijú | Opening stage in a game |
+| 目标 |mùbiāo | Goal / objective |
+| 走法 | zūofǎ | moves |
+| 稳赢 | wěn yíng | certain to win |
+| 惨败 | cǎnbài | crushing defeat |
