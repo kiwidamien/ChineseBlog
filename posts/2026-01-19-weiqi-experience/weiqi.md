@@ -10,7 +10,7 @@ image: "go_game.png"
 
 > (To avoid repeating 完全信息游戏, can use 这类 (zhè lèi) to mean "this type of (game)")
 
-那时，我和同学们都不会下围棋，所以我没有真正下围棋。我看了围棋的规则书里有很多日语词, 比如“Atari", "Komi", "Moyo", "Miai"。其实，那本书不只有围棋规则，还包含围棋策略。那是一本书让数学家们感兴趣的书，所以内容不太容易。虽然围棋的规则很简单，但他的策略太深了。
+那时，我和同学们都不会下围棋，所以我没有真正下围棋。我看了围棋的规则书里有很多日语词, 比如“Atari", "Komi", "Moyo", "Miai"。其实，那本书不只有围棋规则，还包含围棋策略。那是一本让数学家们感兴趣的书，所以内容不太容易。虽然围棋的规则很简单，但他的策略太深了。
 
 > Original "我和同学不会下棋，所以我没下棋", but feedback was 没有下棋 was "very basic", and that 真正这下过期 was more natural. I would omit this in English (I would say "I hadn't played" rather than "I actually did not have the experience of playing")'。
 > Also 策略 (cèlüè) is the term for strategy.
