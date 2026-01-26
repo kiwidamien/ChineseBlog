@@ -6,7 +6,7 @@ categories: [games]
 image: "go_game.png"
 ---
 
-我学数学的时候，偶尔读一些关于围棋的文章。围棋和国际象棋一样，也是一种是完全信息游戏，没有任何运气成分。所以，数学家门自然对这类游戏很感兴趣。
+我学数学的时候，偶尔读一些关于围棋的文章。围棋和国际象棋一样，也是一种是完全信息博弈，没有任何运气成分。所以，数学家门自然对这类游戏很感兴趣。
 
 > (To avoid repeating 完全信息游戏, can use 这类 (zhè lèi) to mean "this type of (game)")
 
@@ -64,6 +64,7 @@ image: "go_game.png"
 
 | 生词     |              | 英语        |
 |---------|--------------|-------------|
+| 博弈     | bóyì         | Playing games (with stones) |
 | 棋类游戏 | qí lèi yóuxì | Board Games |
 | 策略    | cèlüè        | Strategy    | 
 | 友善    | yǒushàn      | Friendly    |
