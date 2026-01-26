@@ -18,7 +18,7 @@ image: "go_game.png"
 
 如果当时我只看了规则，并且找到一个同学一起玩儿的话，我就可以开始下围棋了。
 
-2014年，我是一名大学教授。当时，我和一个经济学教授同事一起常常玩棋盘游戏。他的研究专门是游戏，他给我介绍了很多种游戏。一天，他问我有没有玩过围棋。我回答说没玩过，但是我在学生时代我就想学下围棋。那天，他教我围棋的规则，然后我和他下了我人生中的第一盘围棋。我输了哈哈哈。
+2014年，我是一名大学教授。当时，我和一个经济学教授同事一起常常玩桌游。他的研究专业是游戏，他给我介绍了很多种游戏。一天，他问我有没有玩过围棋。我回答说没玩过，但是我在学生时代我就想学下围棋。那天，他教我围棋的规则，然后我和他下了我人生中的第一盘围棋。我输了哈哈哈。
 
 > Imprtant note： He asked me if I had ever.... is 他问我有没有 Verb 过， NOT 他问我我如果 Verb 过。。。。。. 如果 is only for conditional statements, not about whether or not statements.
 > 在学生的时候 is better as either 上学的时候 (while I was attending school) or 学生时代 （during my student days）
@@ -65,7 +65,8 @@ image: "go_game.png"
 | 生词     |              | 英语        |
 |---------|--------------|-------------|
 | 博弈     | bóyì         | Playing games (with stones) |
-| 棋类游戏 | qí lèi yóuxì | Board Games |
+| 棋类游戏 | qí lèi yóuxì | Board Games (with stones) |
+| 桌游     | zhūo yóu    | Board Games (lit. table games) | 
 | 策略    | cèlüè        | Strategy    | 
 | 友善    | yǒushàn      | Friendly    |
 | 这类    | zhè lèi      | This type/this style |
