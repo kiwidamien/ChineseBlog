@@ -10,7 +10,7 @@ image: "go_game.png"
 
 > (To avoid repeating 完全信息游戏, can use 这类 (zhè lèi) to mean "this type of (game)")
 
-那时，我和同学们都不会下围棋，所以我没有真正下围棋。我看了围棋的规则书里有很多日语词, 比如“Atari", "Komi", "Moyo", "Miai"。其实，那半熟不只有围棋规则，还包含围棋策略。那是一本书让数学家们感兴趣的书，所以内容不太容易。虽然围棋的规则很简单，但他的策略太深了。
+那时，我和同学们都不会下围棋，所以我没有真正下围棋。我看了围棋的规则书里有很多日语词, 比如“Atari", "Komi", "Moyo", "Miai"。其实，那本书不只有围棋规则，还包含围棋策略。那是一本书让数学家们感兴趣的书，所以内容不太容易。虽然围棋的规则很简单，但他的策略太深了。
 
 > Original "我和同学不会下棋，所以我没下棋", but feedback was 没有下棋 was "very basic", and that 真正这下过期 was more natural. I would omit this in English (I would say "I hadn't played" rather than "I actually did not have the experience of playing")'。
 > Also 策略 (cèlüè) is the term for strategy.
@@ -20,7 +20,7 @@ image: "go_game.png"
 
 2014年，我是一名大学教授。当时，我和一个经济学教授同事一起常常玩棋盘游戏。他的研究专门是游戏，他给我介绍了很多种游戏。一天，他问我有没有玩过围棋。我回答说没玩过，但是我在学生时代我就想学下围棋。那天，他教我围棋的规则，然后我和他下了我人生中的第一盘围棋。我输了哈哈哈。
 
-> Important note： He asked me if I had ever.... is 他问我有没有 Verb 过， NOT 他问我我如果 Verb 过。。。。。. 如果 is only for conditional statements, not about whether or not statements.
+> Imprtant note： He asked me if I had ever.... is 他问我有没有 Verb 过， NOT 他问我我如果 Verb 过。。。。。. 如果 is only for conditional statements, not about whether or not statements.
 > 在学生的时候 is better as either 上学的时候 (while I was attending school) or 学生时代 （during my student days）
 
 他玩的(~~行为~~)方式不太（~~善良~~）友善。他喜欢先给别人介绍新游戏，然后用自己的经验轻松赢他们。
