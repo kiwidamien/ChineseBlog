@@ -25,7 +25,7 @@ image: "world_travel.jpg"
 
 另外，我不会说越南话，对越南的景点也不熟。
 
-第二次跟团游是冰岛。我要看瀑布，北极光和冰洞。大部分冰岛人说英语，所以我可能自由行。我希望跟团游给我特别的地方和活动。这次旅游，导游跟无聊。他不要早出去，也不要晚会酒店。
+第二次跟团游是冰岛。我要看瀑布，北极光和冰洞。大部分冰岛人说英语，所以我可以自由行。我希望跟团游给我特别的地方和活动。这次旅游，导游跟无聊。他不要早出去，也不要晚回酒店。
 
 ::: {#fig-iceland1 layout-ncol=3}
 
@@ -35,15 +35,15 @@ image: "world_travel.jpg"
 
 ![](iceland_vesterhorn2.jpg)
 
-导游还陪我们很美丽的地方！
+导游还陪我们去很美丽的地方！
 :::
 
-除了冰冻，我觉得做攻略发现了一样的地方.
+除了冰洞，我觉得瑞国我做攻略，就发现一样的地方.
 
 
 ::: {#fig-ice layout-ncol=2}
 
-![教会](iceland_church.jpg)
+![教堂](iceland_church.jpg)
 
 ![冰洞](iceland_cave.jpg){width=65%}
 
@@ -57,9 +57,9 @@ Need something to go here.
 
 ::: {#fig-owls layout-ncol=2}
 
-![教会](snowy_owl1.jpg)
+![](snowy_owl1.jpg)
 
-![冰洞](snowy_owl2.jpg)
+![](snowy_owl2.jpg)
 
 虽然导游很麻烦，猫头鹰很厉害。
 ::: 
