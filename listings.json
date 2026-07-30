@@ -2,8 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/2026-02-01-stars/stars.html",
+      "/posts/2026-07-30-modest-hut/modest_hub.html",
+      "/posts/2026-07-15-travel/how_i_travel.html",
+      "/posts/2026-01-19-weiqi-experience/weiqi.html",
+      "/posts/2026-01-07-letter-to-self/letter_to_self.html",
+      "/posts/2026-01-03-time_duration/time_durations.html",
+      "/posts/2025-12-16-second-language/personal_language_journey.html",
+      "/posts/2025-12-16-second-language/second_language_survey.html",
+      "/posts/2025-10-europe/index.html",
+      "/posts/2024-11-china-visit/index.html"
     ]
   }
 ]
