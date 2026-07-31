@@ -4,8 +4,10 @@ title: "Big house or small house? / 大房子或者小房子？"
 author: "Damien Martin"
 date: "2026-07-30"
 categories: [travel]
-image: "world_travel.jpg"
+image: "hut.jpg"
 ---
+
+![刘禹锡的陋室銘](hut.jpg)
 
 [原文](https://www.tsoidug.org/Literary/Crude_House_Simp.pdf)
 
